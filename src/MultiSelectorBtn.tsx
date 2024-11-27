@@ -1,10 +1,10 @@
 import React, { MouseEventHandler, useState } from 'react'
 import { uzeCPTSelection } from './uzeSelectedCPT'
 const CPTarray = [
-    "09:00",
-    "11:15",
-    "12:15",
-    "12:45"
+    "autem",
+    "rerum",
+    "itaque",
+    "porro"
 ]
 
 export default function MultiSelectorBtn() {
